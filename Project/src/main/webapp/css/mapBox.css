@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* mapBox.css */
+
+#mapBox{
+	background-color:#eeeeee;
+	width:1920px;
+	height:860px;
+	line-height:520px;
+}
