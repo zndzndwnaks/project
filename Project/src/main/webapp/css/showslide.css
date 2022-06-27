@@ -89,3 +89,5 @@ a:hover{
 
 #prevButton:hover {opacity:1;}
 #nextButton:hover {opacity:1;}
+
+#gotop:hover { opacity:0.7; cursor:pointer;}
