@@ -18,8 +18,7 @@ a:visited {
 a:hover{
 	opacity:0.8;
 	border:solid 1px red; 
-	color:red;
-	transform: scale(1.2);
+	transform: scale(1.1);
 }
 
 
@@ -79,6 +78,10 @@ a:hover{
     color: black;
     font-weight:bold;
     font-size:20px;
+}
+
+#slidePanel a span:hpver{
+	color:red;
 }
 .slideiImage{
 	margin:30px;
