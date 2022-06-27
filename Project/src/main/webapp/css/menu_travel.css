@@ -114,12 +114,12 @@ ul {
 	height:200px;
 	line-height:10px; /* 줄간격 - 수직으로 가운데 정렬 효과 */
 	position: relative;
-	
 }
 
 #bottomLogoBox{
 	padding-top:70px;
-	margin-left: 25%;
+	position:relative;
+	left:500px;
 }
 
 #bottomMenuBox {
@@ -175,5 +175,3 @@ ul {
 	font-size:8px; 
 	text-decoration:none;
 }
-
-
