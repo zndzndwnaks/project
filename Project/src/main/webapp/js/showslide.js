@@ -36,7 +36,7 @@
 	});
 	
 	// 초기에 슬라이더 위치 랜덤하게 지정
-	var randomNumber = Math.floor(Math.random() *11);
+	var randomNumber = Math.floor(Math.random() *9);
 	moveSlide(randomNumber);
 	
 	// 각 컨트롤 버튼에 대해 처리
